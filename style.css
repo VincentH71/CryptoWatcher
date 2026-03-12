@@ -1,0 +1,24 @@
+#container{
+    padding: 25px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#cryptocontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+body{
+    background: url('../image/bf9a5c315f6e43c1a037a3f120d9acc2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
